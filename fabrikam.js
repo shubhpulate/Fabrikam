@@ -8,7 +8,7 @@ var companyController=function (req, res) {
   var companies=[{company:'Fabrikam'},
   {total_offices:24},
 
-	[{p_name:'android app'},{p_name:'ios app'},{p_name:'web app'}],			
+	  {products:[{p_name:'android app'},{p_name:'ios app'},{p_name:'web app'}]},			
 				
 				
   {iass:'Amazon webservices cloud'},
