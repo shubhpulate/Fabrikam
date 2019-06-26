@@ -28,10 +28,8 @@ Functional Requirements:
 3.Manager:
 	-View feedbacks
 	-grant leave
-
-1:Products website
-2:Feedback management system
-3:Leave management system
+4.IAAS(Amazon webservices cloud
+5.Public cloud(Google cloud platform/AWS)
 
 
 
