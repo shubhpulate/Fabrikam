@@ -18,6 +18,17 @@ Non-Functional requirements:
 3.Scalable
 
 Functional Requirements:
+1.Employee:
+	-Apply for leave
+	-give feedback
+	-use cloud platforms
+2.Customer:
+	-View products
+	-Product feedback
+3.Manager:
+	-View feedbacks
+	-grant leave
+
 1:Products website
 2:Feedback management system
 3:Leave management system
