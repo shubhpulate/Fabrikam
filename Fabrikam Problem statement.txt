@@ -1,21 +1,5 @@
-[{company:"Fabrikam"},
-  {total_offices:24},
-  products:"android app","ios app","web development",
-  {iass:"Amazon webservices cloud"},
-  {cloud_host:"AWS"}]
 
-
-
-[{company:"Fabrikam"},
-  {total_offices:24},
-	  products:[{p_name:"android app"},
-				{p_name:"ios app"},
-				{p_name:"web development"}],
-				
-				[{"name":"jack"},{"name":"john"},{"name":"joe"}]
-  {iass:"Amazon webservices cloud"},
-  {cloud_host:"AWS"}];
-
+Problem Statement:
 
 Fabrikam is a multinational company with 24 offices all over the world
 -As there are large number of employees working in company,it is difficult to handle all the data manually
@@ -28,12 +12,12 @@ Fabrikam is a multinational company with 24 offices all over the world
 -To build Infrastructure as a service with the help of Amazon Webservices cloud 
 -Deploy the informantion system in public cloud Google cloud platform or AWS
 
-Functional requirements:
+Non-Functional requirements:
 1:Security
 2.Easiness
 3.Scalable
 
-Non-Functional Requirements:
+Functional Requirements:
 1:Products website
 2:Feedback management system
 3:Leave management system
